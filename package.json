@@ -1,11 +1,11 @@
 {
-    "name": "dummy-app-master",
-    "version": "1.0.0",
+    "name": "dummy-app-08",
+    "version": "1.0.8",
     "private": true,
     "dependencies": {
         "react-scripts": "4.0.3",
         "cacache": "15.3.0",
-        "tar": "6.2.0"
+        "tar": "6.1.11"
     },
     "scripts": {
         "start": "echo start",
