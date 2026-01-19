@@ -10,5 +10,10 @@
     "scripts": {
         "start": "echo start",
         "build": "echo build"
+    },
+    "overrides": {
+        "cacache": {
+            "tar": "6.2.1"
+        }
     }
 }
