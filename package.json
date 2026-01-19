@@ -1,6 +1,6 @@
 {
-    "name": "dummy-app-master",
-    "version": "1.0.0",
+    "name": "dummy-app-01",
+    "version": "1.0.1",
     "private": true,
     "dependencies": {
         "react-scripts": "4.0.3",
