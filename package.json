@@ -1,0 +1,14 @@
+{
+    "name": "dummy-app-master",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "react-scripts": "4.0.3",
+        "cacache": "15.3.0",
+        "tar": "6.2.0"
+    },
+    "scripts": {
+        "start": "echo start",
+        "build": "echo build"
+    }
+}
